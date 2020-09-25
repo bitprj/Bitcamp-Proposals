@@ -19,7 +19,7 @@ Issues (complaints, improvements, or recommendations) are very valuable to this 
 
 Thank you for creating them.
 
-(See this template for more guidance here)
+(See `IssueTemplates.md` for more guidance here)
 
 
 ## Pull Requests
